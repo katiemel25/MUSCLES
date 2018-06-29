@@ -1,0 +1,156 @@
+J/ApJ/834/85        H{alpha} emission in nearby M dwarfs        (Newton+, 2017)
+================================================================================
+The H{alpha} emission of nearby M dwarfs and its relation to stellar rotation.
+    Newton E.R., Irwin J., Charbonneau D., Berlind P., Calkins M.L., Mink J.
+   <Astrophys. J., 834, 85-85 (2017)>
+   =2017ApJ...834...85N    (SIMBAD/NED BibCode)
+================================================================================
+ADC_Keywords: Stars, masses ; Stars, diameters ; Equivalent widths ;
+              Stars, M-type ; Stars, nearby
+Keywords: stars: activity; stars: low-mass; stars: rotation
+
+Abstract:
+    The high-energy emission from low-mass stars is mediated by the
+    magnetic dynamo. Although the mechanisms by which fully convective
+    stars generate large-scale magnetic fields are not well understood, it
+    is clear that, as for solar-type stars, stellar rotation plays a
+    pivotal role. We present 270 new optical spectra of low-mass stars in
+    the Solar Neighborhood. Combining our observations with those from the
+    literature, our sample comprises 2202 measurements or non-detections
+    of H{alpha} emission in nearby M dwarfs. This includes 466 with
+    photometric rotation periods. Stars with masses between 0.1 and
+    0.6M_{sun}_ are well-represented in our sample, with fast and slow
+    rotators of all masses. We observe a threshold in the mass-period
+    plane that separates active and inactive M dwarfs. The threshold
+    coincides with the fast-period edge of the slowly rotating population,
+    at approximately the rotation period at which an era of rapid
+    rotational evolution appears to cease. The well-defined
+    active/inactive boundary indicates that H{alpha} activity is a useful
+    diagnostic for stellar rotation period, e.g., for target selection for
+    exoplanet surveys, and we present a mass-period relation for inactive
+    M dwarfs. We also find a significant, moderate correlation between
+    L_H{alpha}_/L_bol_ and variability amplitude: more active stars
+    display higher levels of photometric variability. Consistent with
+    previous work, our data show that rapid rotators maintain a saturated
+    value of L_H{alpha}_/L_bol_. Our data also show a clear power-law
+    decay in L_H{alpha}_/L_bol_ with Rossby number for slow rotators, with
+    an index of -1.7+/-0.1.
+
+Description:
+    Our sample of M dwarfs is drawn from the MEarth Project, an all-sky
+    survey looking for transiting planets around approximately 3000
+    nearby, mid-to-late M dwarfs.
+    Nutzman & Charbonneau (2008PASP..120..317N) selected the northern
+    MEarth targets from the Lepine & Shara (2005, I/298) northern proper
+    motion catalog (hereafter the "nearby northern M dwarf" sample).
+
+    MEarth-North is located at the Fred Lawrence Whipple Observatory
+    (FLWO), on Mount Hopkins, Arizona, and has been operational since 2008
+    September. The observatory comprises eight 40cm telescopes. This work
+    utilizes results from MEarth-North and from our further spectroscopic
+    characterization of the sample. Compiled and new rotation period and
+    H{alpha} measurements are included in Table 1.
+
+File Summary:
+--------------------------------------------------------------------------------
+ FileName      Lrecl  Records   Explanations
+--------------------------------------------------------------------------------
+ReadMe            80        .   This file
+table1.dat       185     2202   Magnetic activity measurements and rotation
+                                 periods for nearby northern M dwarfs
+--------------------------------------------------------------------------------
+
+See also:
+ I/298 : LSPM-North Catalog (Lepine+ 2005)
+ J/ApJ/821/93  : Rotation + Galactic kinematics of mid M dwarfs (Newton+, 2016)
+ J/ApJ/818/153 : MEarth photometry: nearby M-dwarf magnitudes (Dittmann+, 2016)
+ J/ApJ/812/3   : MEarth mid-to-late M dwarfs rotation + kinematics (West+, 2015)
+ J/A+A/577/A128 : CARMENES input catalog of M dwarfs. I (Alonso-Floriano+, 2015)
+ J/ApJ/795/161 : Activity & rotation in Praesepe and the Hyades (Douglas+, 2014)
+ J/MNRAS/443/2561 : CONCH-SHELL catalog of nearby M dwarfs (Gaidos+, 2014)
+ J/AJ/148/30   : BVI photometry of 350 Pleiades stars (Kamai+, 2014)
+ J/ApJS/211/24 : Rotation periods of Kepler MS stars (McQuillan+, 2014)
+ J/ApJ/784/156 : Parallaxes for nearby mid-to-late M dwarfs (Dittmann+, 2014)
+ J/AJ/147/20   : Spectroscopy of 447 nearby M dwarfs (Newton+, 2014)
+ J/MNRAS/432/1203 : Rotation periods of M-dwarf stars (McQuillan+, 2013)
+ J/MNRAS/431/2063 : UV/X-ray activity of M dwarfs within 10pc (Stelzer+, 2013)
+ J/AJ/145/102  : Spectro. of bright M dwarfs in the northern sky (Lepine+, 2013)
+ J/AcA/63/53   : ASAS photometry of ROSAT sources. II. (Kiraga+, 2013)
+ J/ApJ/757/112 : Stellar diameters. II. K and M-stars (Boyajian+, 2012)
+ J/MNRAS/423/2966 : Low-mass stars spectroscopy in NGC 2516 (Jackson+, 2012)
+ J/ApJS/200/15 : HARPS-TERRA project. I. (Anglada-Escude+, 2012)
+ J/AJ/143/93   : Rotational velocities in early-M stars (Reiners+, 2012)
+ J/ApJ/746/23  : Radio observations of ultracool dwarf stars (McLean+, 2012)
+ J/ApJ/743/48  : Stellar rotation periods and X-ray luminosities (Wright+, 2011)
+ J/A+A/532/A10 : RACE-OC project. II. (Messina+, 2011)
+ J/AJ/141/97   : SDSS DR7 M dwarfs (West+, 2011)
+ J/MNRAS/407/2269 : Polarisation of a sample of late M dwarfs (Morin+, 2010)
+ J/ApJ/699/649 : Young M dwarfs within 25pc. I. (Shkolnik+, 2009)
+ J/MNRAS/390/545 : Magnetic field and velocity of early M dwarfs (Donati+, 2008)
+ J/AJ/133/2825 : Star beyond the NLTT catalog (Reid+, 2007)
+ J/A+A/467/785 : SuperWASP/ROSAT periodic variable stars (Norton+, 2007)
+ J/ApJ/648/629 : Radio observations of late M, L, and T dwarfs (Berger+, 2006)
+ J/AJ/132/866  : New M dwarfs in solar neighborhood (Riaz+, 2006)
+ J/A+A/446/515 : Distances of nearby ultracool dwarfs (Phan-Bao+, 2006)
+ J/AJ/130/1871 : Spectroscopic survey of M dwarfs (Bochanski+, 2005)
+ J/AJ/130/1680 : LSPM-North proper-motion catalog nearby stars (Lepine+, 2005)
+ J/AJ/128/426  : Subdwarfs in the SDSS (West+, 2004)
+ J/AJ/125/1598 : New high PM stars in the northern sky (Lepine+, 2003)
+ J/A+A/397/147 : Activity-rotation relationship in stars (Pizzolato+ 2003)
+ J/AJ/123/3356 : Palomar/MSU nearby star spectrosc. survey. III. (Gizis+, 2002)
+ J/AJ/123/2828 : Spectroscopy of northern NLTT stars (Cruz+, 2002)
+ J/MNRAS/301/1031 : High resolution spectra of VLM stars (Tinney+ 1998)
+ J/A+A/331/581 : Rotation and activity in field M dwarfs (Delfosse+ 1998)
+
+Byte-by-byte Description of file: table1.dat
+--------------------------------------------------------------------------------
+   Bytes Format Units    Label   Explanations
+--------------------------------------------------------------------------------
+   1- 16 A16    ---      2MASS   2MASS identifier (HHMMSSss+DDMMSSs; J2000)
+  18- 19 I2     h        RAh     Hour of Right Ascension (J2000)
+  21- 22 I2     min      RAm     Minute of Right Ascension (J2000)
+  24- 29 F6.3   s        RAs     Second of Right Ascension (J2000)
+  31- 31 A1     ---      DE-     Sign of the Declination (J2000)
+  32- 33 I2     deg      DEd     Degree of Declination (J2000)
+  35- 36 I2     arcmin   DEm     Arcminute of Declination (J2000)
+  38- 43 F6.3   arcsec   DEs     Arcsecond of Declination (J2000)
+  45- 49 F5.3   Msun     Mass    [0.05/0.9] Stellar mass
+  51- 55 F5.3   Rsun     Rad     [0.07/0.9] Stellar radius
+  57- 61 F5.3   10-5     chi     [0.1/8.4]? {chi} parameter times 10-5 (1)
+  63- 70 F8.4   d        Per     [0.1/151]? Photometric rotation period
+  72- 90 A19    ---    r_Per     ADS bibcode for Per
+  92- 98 F7.3   0.1nm    EWHa    [-28/0.5]? H{alpha} equivalent width, this work
+ 100-104 F5.3   0.1nm  e_EWHa    [0.01/0.7]? Error in EWHa
+ 106-112 F7.3   0.1nm    EWHa-r  [-28/1.3]? H{alpha} EW adopted in
+                                  restricted sample
+ 114-118 F5.3   0.1nm  e_EWHa-r  [0/5.121]? Error in EWHa-r
+ 120-138 A19    ---    r_EWHa-r  ADS bibcode for EWHa-r
+ 140-145 F6.3   [10-4]   logLHa  [-0.6/5]? log LH{alpha}/Lbol x10-4 relative
+                                  to "quiescent" level
+ 147-147 I1     ---    l_EWHa-u  [0/1] Upper limit flag for EWHa-u;
+                                  1=upper limit
+ 149-155 F7.3   0.1nm    EWHa-u  [-49.6/1.3]? H{alpha} EW adopted in
+                                  unrestricted sample
+ 157-161 F5.3   0.1nm  e_EWHa-u  [0/5.121]? Error in EWHa-u
+ 163-181 A19    ---    r_EWHa-u  ADS bibcode for EWHa-u
+ 183-183 I1     ---      Act     Activity flag (0=active, 1=inactive)
+ 185-185 I1     ---      Bin     Binary flag (0=no known close companion,
+                                  1=companion)
+--------------------------------------------------------------------------------
+Note (1): Calculation of intrinsic H{alpha} luminosity requires absolutely
+          flux-calibrated spectra. Accurate photometry in the wavelength region
+          covered by our FAST spectra is not widely available for our sample, 
+          and absolute flux calibration is beyond the scope of the present work.
+          The {chi} factor is commonly used in this circumstance
+          (Walkowicz+ 2004PASP..116.1105W; West & Hawley 2008PASP..120.1161W).
+          The {chi} factor is derived from photometric colors, and
+          L_H{alpha}_/L_bol_ is then easily calculated:
+          L_H{alpha}_/L_bol_=EW_H{alpha}_x{chi}. We adopt {chi} factors from
+          Douglas et al. (2014, J/ApJ/795/161). See section 3.3.
+--------------------------------------------------------------------------------
+
+History:
+    From electronic version of the journal
+
+================================================================================
+(End)                  Prepared by [AAS], Emmanuelle Perret [CDS]    01-Jun-2017
